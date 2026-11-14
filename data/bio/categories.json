@@ -1,0 +1,56 @@
+{
+  "palette": [
+    "#db2777",
+    "#0891b2",
+    "#ca8a04",
+    "#4f46e5",
+    "#15803d",
+    "#b91c1c",
+    "#9333ea",
+    "#0d9488"
+  ],
+  "categories": [
+    {
+      "id": "approval",
+      "emoji": "🧪",
+      "label": "임상·허가",
+      "color": "#db2777"
+    },
+    {
+      "id": "deal",
+      "emoji": "🤝",
+      "label": "기술이전·제휴",
+      "color": "#0891b2"
+    },
+    {
+      "id": "earnings",
+      "emoji": "📊",
+      "label": "실적·재무",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "capital",
+      "emoji": "💰",
+      "label": "투자·자본시장",
+      "color": "#4f46e5"
+    },
+    {
+      "id": "policy",
+      "emoji": "🏛️",
+      "label": "정책·규제",
+      "color": "#15803d"
+    },
+    {
+      "id": "digital",
+      "emoji": "🩺",
+      "label": "디지털헬스·의료기기",
+      "color": "#b91c1c"
+    },
+    {
+      "id": "others",
+      "emoji": "📌",
+      "label": "기타",
+      "color": "#9333ea"
+    }
+  ]
+}

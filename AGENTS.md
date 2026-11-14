@@ -55,6 +55,39 @@
   - Hugging Face 블로그: https://huggingface.co/blog
 
 
+### BIO
+- 국내:
+  - 히트뉴스: https://www.hitnews.co.kr
+  - 더바이오: https://www.thebionews.net
+  - 바이오스펙테이터: https://www.biospectator.com
+- 해외:
+  - STAT News: https://www.statnews.com
+  - BioPharma Dive: https://www.biopharmadive.com
+  - Fierce Biotech: https://www.fiercebiotech.com
+
+
+### ENERGY
+- 국내:
+  - 에너지경제: https://www.ekn.kr
+  - 전기신문: https://www.electimes.com
+  - 이투뉴스: https://www.e2news.com
+- 해외:
+  - Utility Dive: https://www.utilitydive.com
+  - Canary Media: https://www.canarymedia.com
+  - Energy-Storage.news: https://www.energy-storage.news
+
+
+### SEMICONDUCTOR
+- 국내:
+  - 디일렉: https://www.thelec.kr
+  - 전자신문: https://www.etnews.com/news/section.html?id1=06
+  - 디지털데일리: https://www.ddaily.co.kr
+- 해외:
+  - SemiEngineering: https://semiengineering.com
+  - DIGITIMES: https://www.digitimes.com
+  - EE Times: https://www.eetimes.com
+
+
 ## 월간 트렌드 보고서 작성
 '월간 트렌드 보고서 작성', '트렌드 보고서 작성' 같은 요청을 받으면, 시작 전에 [`references/trend-report-guide.md`](references/trend-report-guide.md)를 끝까지 읽고 그 절차대로 수행한다.
 - 주제나 월이 요청에 없으면 먼저 고르게 한다(가이드 2-0).
