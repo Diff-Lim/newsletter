@@ -1,0 +1,102 @@
+{
+  "published_at": "2026-11-14T11:50",
+  "title": "ENERGY 뉴스레터",
+  "emoji": "⚡",
+  "sources": ["전기신문", "이투뉴스", "에너지경제", "Utility Dive", "Canary Media", "Energy-Storage.news"],
+  "articles": [
+    {
+      "category": "grid",
+      "category_label": "전력망·데이터센터 전력",
+      "category_emoji": "🔌",
+      "title": "서던컴퍼니, 가스·원전 등 1,000억달러 투자계획 검토",
+      "url": "https://www.utilitydive.com/news/southern/874111/",
+      "summary": "미국 대형 유틸리티 서던컴퍼니가 5년 설비투자를 최대 1,000억달러까지 늘릴 수 있다고 밝혔어요. 데이터센터 전력 사용량이 1년 새 59% 늘었고, 계약된 대형 부하만 21GW예요. AI 전력 수요가 가스·원전 투자로 이어지고 있어요.",
+      "source": "Utility Dive",
+      "time": "11/13 23:45"
+    },
+    {
+      "category": "grid",
+      "title": "유틸리티·기술 업계 \"전력망 이용률 높일 여지 크다\"",
+      "url": "https://www.utilitydive.com/news/utility-tech-officials-see-opportunities-to-increase-grid-utilization/874644/",
+      "summary": "미국 송전설비 이용률 중앙값은 약 33%에 그쳐요. 전력망을 새로 깔지 않고도 AI 모델과 전력망 효율화 기술(GETs), 수요반응·VPP로 기존 설비를 더 쓸 수 있다는 논의가 나왔어요. NRG는 2035년까지 유연성 자원 25GW를 확보할 계획이에요.",
+      "source": "Utility Dive",
+      "time": "11/14 02:26"
+    },
+    {
+      "category": "storage",
+      "category_label": "ESS·배터리",
+      "category_emoji": "🔋",
+      "title": "BESS 업계 동향: CATL 나트륨이온 사양, BESS 가용률, '빠른 계통연결'의 가격",
+      "url": "https://www.energy-storage.news/bess-industry-buzz-catl-sodium-ion-specs-bess-availability-and-the-price-of-speed-to-power/",
+      "summary": "CATL이 나트륨이온 ESS 제품 사양을 공개했어요. 데이터센터가 몰린 지역에서는 계통연결 속도에 따라 전력구매 가격이 MWh당 최대 52달러 차이 나요. 미국 주요 전력시장 규정이 강화되면서 ESS가 사실상 필수 요건이 되고 있어요.",
+      "source": "Energy-Storage.news",
+      "time": "11/13 19:01"
+    },
+    {
+      "category": "storage",
+      "title": "선런, 배터리 110MWh 규모 미국 분산자원에 우선주 투자 유치",
+      "url": "https://www.energy-storage.news/sunrun-closes-preferred-equity-investment-for-us-distributed-energy-resources-totalling-110mwh-of-batteries/",
+      "summary": "미국 주택용 태양광 1위 선런이 20여개 주 9,400가구의 태양광+ESS(배터리 110MWh)를 묶어 투자를 유치했어요. 푸에르토리코 가상발전소(VPP) 참여 고객은 6만명을 넘었어요. 분산형 ESS의 금융화가 빨라지고 있어요.",
+      "source": "Energy-Storage.news",
+      "time": "11/13 20:38"
+    },
+    {
+      "category": "nuclear",
+      "category_label": "원전",
+      "category_emoji": "☢️",
+      "title": "한수원·체코 발주사 “두코바니 원전 계획대로 추진 중”",
+      "url": "https://www.electimes.com/news/articleView.html?idxno=374745",
+      "summary": "한수원과 체코 발주사가 두코바니 원전(APR1000 2기) 일정을 다시 확인했어요. 건설허가 신청은 2027년 4월, 착공은 2029년 11월이에요. 올해 말부터 2030년까지 보조기기 약 200개 품목을 발주해 국내 기자재 기업에 기회가 열려요.",
+      "source": "전기신문",
+      "time": "11/13 21:07"
+    },
+    {
+      "category": "renewables",
+      "category_label": "재생에너지",
+      "category_emoji": "☀️",
+      "title": "동서발전, 울산 부유식 해상풍력 기술·금융 해법 찾는다",
+      "url": "https://www.electimes.com/news/articleView.html?idxno=374746",
+      "summary": "동서발전이 오션윈즈, 금양그린파워와 울산 375MW 부유식 해상풍력 사업을 함께 논의했어요. 오션윈즈의 유럽 부유식 풍력 경험을 바탕으로 운영·정비(O&M), 금융조달, 리스크 대응 방안을 나눴어요.",
+      "source": "전기신문",
+      "time": "11/13 21:16"
+    },
+    {
+      "category": "hydrogen",
+      "category_label": "수소",
+      "category_emoji": "💧",
+      "title": "제주에너지공사, 전력 수급 따라 가동 조절하는 수전해 개발 착수",
+      "url": "https://www.e2news.com/news/articleView.html?idxno=336108",
+      "summary": "제주에너지공사가 현대차·현대건설 등과 함께 재생에너지 변동에 맞춰 가동을 조절하는 수전해 국가과제를 시작했어요. 전기가 남을 때는 수소를 만들고, 피크 때는 수요반응 자원으로 쓰는 방식이에요. 2028년부터 통합 실증해요.",
+      "source": "이투뉴스",
+      "time": "11/13 16:19"
+    },
+    {
+      "category": "oil_gas",
+      "category_label": "석유·가스",
+      "category_emoji": "🛢️",
+      "title": "석유 최고가 또 동결, 유류세 인하까지…“민생 부담, 당분간 유지”",
+      "url": "https://www.ekn.kr/web/view.php?key=20261114020089409",
+      "summary": "12차 석유 최고가격이 휘발유 1784원, 경유 1773원으로 6회 연속 동결됐어요. 브렌트유는 96달러로 10월보다 내렸지만 여전히 높고 해상운임 부담도 커요. 유류세 인하는 내년 1월 말까지 연장됐어요.",
+      "source": "에너지경제",
+      "time": "11/14 05:00"
+    },
+    {
+      "category": "policy",
+      "category_label": "정책·시장",
+      "category_emoji": "📜",
+      "title": "중간선거 패배 불구 에너지 인프라 법안 美 상원 통과",
+      "url": "https://www.e2news.com/news/articleView.html?idxno=336087",
+      "summary": "미 상원이 AI 데이터센터와 에너지 인프라 인허가를 빠르게 하는 초당적 법안을 73대 25로 통과시켰어요. 데이터센터가 자체 에너지 비용을 부담하게 하고, 해상풍력 철수 보상금 지급은 중단하는 내용이 담겼어요.",
+      "source": "이투뉴스",
+      "time": "11/13 13:08"
+    },
+    {
+      "category": "policy",
+      "title": "'모든 것의 전기화', 세계 무대에 오르다",
+      "url": "https://www.canarymedia.com/articles/electrification/electrify-everything-cop31-climate-conference",
+      "summary": "COP31에서 전 세계 최종에너지 중 전기 비중을 현재 20%대에서 2035년 35%로 높이자는 목표가 제안됐어요. 이란 전쟁으로 유가·가스값이 뛰면서 전기화가 에너지 안보 수단으로도 주목받고 있어요.",
+      "source": "Canary Media",
+      "time": "11/14 01:14"
+    }
+  ]
+}

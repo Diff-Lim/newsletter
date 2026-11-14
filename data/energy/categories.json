@@ -1,0 +1,56 @@
+{
+  "palette": [
+    "#db2777",
+    "#0891b2",
+    "#ca8a04",
+    "#4f46e5",
+    "#15803d",
+    "#b91c1c",
+    "#9333ea",
+    "#0d9488"
+  ],
+  "categories": [
+    {
+      "id": "grid",
+      "emoji": "🔌",
+      "label": "전력망·데이터센터 전력",
+      "color": "#db2777"
+    },
+    {
+      "id": "storage",
+      "emoji": "🔋",
+      "label": "ESS·배터리",
+      "color": "#0891b2"
+    },
+    {
+      "id": "nuclear",
+      "emoji": "☢️",
+      "label": "원전",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "renewables",
+      "emoji": "☀️",
+      "label": "재생에너지",
+      "color": "#4f46e5"
+    },
+    {
+      "id": "hydrogen",
+      "emoji": "💧",
+      "label": "수소",
+      "color": "#15803d"
+    },
+    {
+      "id": "oil_gas",
+      "emoji": "🛢️",
+      "label": "석유·가스",
+      "color": "#b91c1c"
+    },
+    {
+      "id": "policy",
+      "emoji": "📜",
+      "label": "정책·시장",
+      "color": "#9333ea"
+    }
+  ]
+}

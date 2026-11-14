@@ -88,6 +88,17 @@
   - EE Times: https://www.eetimes.com
 
 
+### ENERGY
+- 국내:
+  - 에너지경제: https://www.ekn.kr
+  - 전기신문: https://www.electimes.com
+  - 이투뉴스: https://www.e2news.com
+- 해외:
+  - Utility Dive: https://www.utilitydive.com
+  - Canary Media: https://www.canarymedia.com
+  - Energy-Storage.news: https://www.energy-storage.news
+
+
 ## 월간 트렌드 보고서 작성
 '월간 트렌드 보고서 작성', '트렌드 보고서 작성' 같은 요청을 받으면, 시작 전에 [`references/trend-report-guide.md`](references/trend-report-guide.md)를 끝까지 읽고 그 절차대로 수행한다.
 - 주제나 월이 요청에 없으면 먼저 고르게 한다(가이드 2-0).
