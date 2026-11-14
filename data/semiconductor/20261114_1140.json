@@ -1,0 +1,184 @@
+{
+  "published_at": "2026-11-14T11:40",
+  "title": "SEMICONDUCTOR 뉴스레터",
+  "emoji": "🔬",
+  "sources": [
+    "디지털데일리",
+    "DIGITIMES",
+    "EE Times"
+  ],
+  "articles": [
+    {
+      "category": "memory",
+      "category_label": "메모리·HBM",
+      "category_emoji": "💾",
+      "title": "삼성전자, 천안 공간 부족에 온양에서 HBM 패키징 확대",
+      "url": "https://www.digitimes.com/news/a20261113VL219/samsung-hbm-packaging-production-capacity.html",
+      "summary": "천안 캠퍼스 공간이 부족해지자 삼성전자가 인근 온양 사업장을 HBM 패키징 거점으로 키우고 있습니다. AI 메모리 생산능력을 늘리기 위한 조치입니다.",
+      "source": "DIGITIMES",
+      "time": "11/13 12:46"
+    },
+    {
+      "category": "memory",
+      "title": "SK하이닉스·인텔, AI 병목 해소 위한 메모리 공유 구조 모색",
+      "url": "https://www.digitimes.com/news/a20261113PD229/sk-hynix-intel-data-capacity-cxl.html",
+      "summary": "SK하이닉스가 인텔 등과 함께 AI 서버끼리 메모리를 나눠 쓰는 메모리 중심 컴퓨팅 구조를 개발 중입니다. 에이전틱 AI로 메모리 용량·대역폭 수요가 커진 데 따른 대응입니다.",
+      "source": "DIGITIMES",
+      "time": "11/13 15:42"
+    },
+    {
+      "category": "memory",
+      "title": "中 eSSD 주문 축소, 삼성·SK하이닉스에 미국 시장 기회로",
+      "url": "https://www.digitimes.com/news/a20261113VL225/samsung-sk-hynix-ssd-data-center-infrastructure-demand.html",
+      "summary": "미국 수출규제로 프로세서를 구하지 못한 중국 AI 기업들이 주문을 줄였습니다. 삼성전자와 SK하이닉스는 중국에 갈 기업용 SSD 물량 일부를 미국 클라우드 기업으로 돌리고 있습니다.",
+      "source": "DIGITIMES",
+      "time": "11/13 16:08"
+    },
+    {
+      "category": "memory",
+      "title": "CXMT, AI 서버 메모리·LPDDR6로 고부가 D램 시장 공략",
+      "url": "https://www.digitimes.com/news/a20261113VL228/dram-cxmt-market-ai-server-automotive.html",
+      "summary": "중국 D램 업체 CXMT가 DDR5 서버 모듈, 양산 중인 LPDDR6, 차량용 D램을 공개했습니다. 모바일을 넘어 고부가 시장으로 넓히려는 것으로, 국내 메모리 업체에는 경쟁 변수입니다.",
+      "source": "DIGITIMES",
+      "time": "11/13 15:43"
+    },
+    {
+      "category": "system_foundry",
+      "category_label": "파운드리·시스템반도체",
+      "category_emoji": "🧠",
+      "title": "삼성전자, 미국 클라우드 기업 AI 칩 수주 추가 확보 보도",
+      "url": "https://www.digitimes.com/news/a20261113VL229/samsung-ai-chip-manufacturing-2028-2nm.html",
+      "summary": "삼성전자가 2분기 연속 미국 대형 클라우드 기업의 AI 칩 생산 주문을 따낸 것으로 전해졌습니다. TSMC 생산능력이 빠듯한 덕분이며, 양산 출하는 2028년 시작 예정입니다.",
+      "source": "DIGITIMES",
+      "time": "11/13 15:44"
+    },
+    {
+      "category": "system_foundry",
+      "title": "세미파이브, 3분기 신규 수주 1784억원…AI 칩 확대에 '역대 최대'",
+      "url": "https://www.ddaily.co.kr/page/view/2026111312511162942",
+      "summary": "세미파이브의 3분기 신규 수주가 1784억원으로 역대 최대였고, ASIC 개발 수주는 705% 늘었습니다. 4나노 AI 추론칩 개발에 힘을 싣고, 삼성 파운드리 2·3나노 IP도 늘릴 계획입니다.",
+      "source": "디지털데일리",
+      "time": "11/13 12:53"
+    },
+    {
+      "category": "system_foundry",
+      "title": "인텔, 국내 23개사와 AI 동맹 결성…HBM 없는 추론 GPU 제안",
+      "url": "https://www.digitimes.com/news/a20261113VL226/intel-gpu-alliance-president-design.html",
+      "summary": "인텔이 'AI 서밋 서울'에서 국산 서버 중심의 23개사 동맹을 꾸렸습니다. 비싼 HBM 대신 저전력 D램을 쓰는 추론 GPU와 함께 맞춤형 칩 설계·파운드리 서비스도 제안했습니다.",
+      "source": "DIGITIMES",
+      "time": "11/13 15:40"
+    },
+    {
+      "category": "system_foundry",
+      "title": "딥엑스, 삼성 2나노 공정으로 AI 칩 테이프아웃",
+      "url": "https://www.digitimes.com/news/a20261113VL232/ai-chip-samsung-2nm-production-processor.html",
+      "summary": "국내 AI 칩 스타트업 딥엑스가 차세대 DX-M2 프로세서를 삼성 2세대 2나노 공정으로 테이프아웃했습니다. 로봇·산업장비에서 클라우드 없이 생성형 AI를 돌리는 것이 목표입니다.",
+      "source": "DIGITIMES",
+      "time": "11/13 17:35"
+    },
+    {
+      "category": "system_foundry",
+      "title": "세레브라스 2026년 3분기 실적: 거시 환경 견조, 부문별 성과와 전망",
+      "url": "https://www.digitimes.com/news/a20261113VL231/cerebras-2026-performance-earnings-revenue.html",
+      "summary": "AI 칩 기업 세레브라스의 3분기 핵심 매출이 2억3,100만달러로 1년 전보다 70% 늘어 사상 최대였습니다. 상장 후 처음으로 비GAAP 기준 순이익 3,000만달러 흑자도 냈습니다.",
+      "source": "DIGITIMES",
+      "time": "11/13 16:44"
+    },
+    {
+      "category": "equipment",
+      "category_label": "장비·소재",
+      "category_emoji": "🛠️",
+      "title": "어플라이드, 역대 최대 연간 실적 달성… 4분기 매출 53% 급증",
+      "url": "https://www.ddaily.co.kr/page/view/2026111314345375558",
+      "summary": "어플라이드머티어리얼즈의 2026회계연도 4분기 매출은 104억1000만달러, 연간 매출은 344억5000만달러로 모두 역대 최대입니다. 4분기 영업이익률은 35.1%였습니다. 장비 업황 호조를 보여주는 지표입니다.",
+      "source": "디지털데일리",
+      "time": "11/13 15:56"
+    },
+    {
+      "category": "equipment",
+      "title": "두산, SK실트론 인수 심사 통과…연내 거래 종결 가능",
+      "url": "https://www.digitimes.com/news/a20261113PD243/doosan-sk-siltron-merger-2026-acquisition.html",
+      "summary": "두산그룹이 약 2개월 만에 6개국에서 SK실트론 인수 심사를 마쳤습니다. 거래 규모는 2조3,000억원이며, 예상보다 빨라 연내 거래 종결도 가능할 전망입니다.",
+      "source": "DIGITIMES",
+      "time": "11/13 14:50"
+    },
+    {
+      "category": "policy",
+      "category_label": "정책·공급망",
+      "category_emoji": "🏛️",
+      "title": "네덜란드 법원, 윙테크의 넥스페리아 통제 추가 제한…중국과 공급망 분열 심화",
+      "url": "https://www.digitimes.com/news/a20261113PD247/nexperia-dutch-chip-supply-business-supply-chain.html",
+      "summary": "네덜란드 법원이 중국 모회사 윙테크의 넥스페리아 경영 간섭을 더 강하게 막았습니다. 넥스페리아 중국 법인은 독자 공급망 구축을 서두르고 있어, 범용 반도체 공급망 분리가 깊어지고 있습니다.",
+      "source": "DIGITIMES",
+      "time": "11/13 15:08"
+    },
+    {
+      "category": "others",
+      "category_label": "기타",
+      "category_emoji": "📌",
+      "title": "삼성전자, 메모리·모바일 사업 수장 분리 검토",
+      "url": "https://www.digitimes.com/news/a20261113VL233/samsung-mobile-development-revenue-business.html",
+      "summary": "삼성전자가 다가오는 임원 인사에서 메모리와 모바일 사업 수장을 따로 둘 수 있다는 보도입니다. 반도체는 사상 최대 이익을 내는 반면 가전 부문은 적자라 대비가 뚜렷합니다.",
+      "source": "DIGITIMES",
+      "time": "11/13 16:55"
+    },
+    {
+      "category": "market",
+      "category_label": "시장·증시",
+      "category_emoji": "📈",
+      "title": "美 증시, AI 투자 불확실성에 혼조…AMD 8.8%·브로드컴 4.8% 급락",
+      "url": "https://www.ddaily.co.kr/page/view/2026111407015385129",
+      "summary": "젠슨 황 엔비디아 CEO 사임 뒤 AI 투자가 계속될지 의문이 커지며 AI 반도체주가 약세였습니다. 엔비디아 2.0%, AMD 8.8%, 브로드컴 4.8% 하락했고, 후임으로 Arm의 르네 하스가 거론됩니다.",
+      "source": "디지털데일리",
+      "time": "11/14 07:02"
+    },
+    {
+      "category": "market",
+      "title": "SMIC \"AI 메모리는 2028년 중반 이후 균형…연산·주변 칩 부족은 지속\"",
+      "url": "https://www.digitimes.com/news/a20261113VL218/smic-chips-capacity-demand-equipment.html",
+      "summary": "SMIC는 3분기 실적 발표에서 AI 수요로 칩 공급 부족이 2028년 중반까지 이어질 것으로 봤습니다. 장비 리드타임이 최대 2년이라 자체 증설도 더디다고 밝혔습니다.",
+      "source": "DIGITIMES",
+      "time": "11/13 11:58"
+    },
+    {
+      "category": "market",
+      "title": "엔비디아 14개 항목 GPU 점검에 AI 서버 공급 빠듯…전액 선불·2027년 가격 인상 임박",
+      "url": "https://www.digitimes.com/news/a20261113PD223/nvidia-ai-server-gpu-price-2027.html",
+      "summary": "미국이 해외 데이터센터 사용까지 감독하는 추가 수출규제를 준비하는 가운데, 엔비디아가 14개 항목 GPU 점검을 하면서 AI 서버 공급이 빠듯해졌습니다. 전액 선불과 2027년 가격 인상이 예상됩니다.",
+      "source": "DIGITIMES",
+      "time": "11/13 13:40"
+    },
+    {
+      "category": "policy",
+      "title": "배경훈 \"젠슨 황 떠나도 GPU 동맹 문제없어…26만장 공급 약속 유지\"",
+      "url": "https://www.ddaily.co.kr/page/view/2026111408535993745",
+      "summary": "과기정통부가 엔비디아와 긴급 점검회의를 열고, 젠슨 황 사임과 관계없이 한국에 GPU 26만장을 공급하고 협력 사업도 그대로 진행한다는 점을 다시 확인했습니다. 정부 몫 5만장도 예정대로 들여옵니다.",
+      "source": "디지털데일리",
+      "time": "11/14 09:22"
+    },
+    {
+      "category": "policy",
+      "title": "호남 반도체·미래대응기금, 여·야 충돌…국회 산자위, 내년도 예산안 의결 무산",
+      "url": "https://www.ddaily.co.kr/page/view/2026111317230990206",
+      "summary": "서남권 반도체 클러스터 예산 1.5조원을 두고 여야가 맞섰습니다. 국민의힘은 전액 삭감을, 민주당은 6조원 증액을 요구해 산자위의 2027년 예산안 의결이 무산됐습니다.",
+      "source": "디지털데일리",
+      "time": "11/13 17:45"
+    },
+    {
+      "category": "policy",
+      "title": "中 AI 기업들, 엔비디아 스파이 사건 여파로 칩 규제 우려…해외 컴퓨팅 확보 경쟁",
+      "url": "https://www.digitimes.com/news/a20261113VL224/nvidia-china-ai-chip-regulation-security.html",
+      "summary": "엔비디아 스파이 스캔들 이후 미 의회가 첨단 칩 원격 접근까지 막을 수 있다는 우려가 커졌습니다. 이에 중국 AI 기업들이 해외 컴퓨팅 계약을 서두르고 있다는 보도입니다.",
+      "source": "DIGITIMES",
+      "time": "11/13 16:41"
+    },
+    {
+      "category": "others",
+      "title": "electronica 2026: 데이터센터와 피지컬 AI가 주목받으며 칩 업체들은 플랫폼으로 사업 확장",
+      "url": "https://www.eetimes.com/electronica-2026-chipmakers-move-up-the-stack-as-data-centers-and-physical-ai-take-center-stage/",
+      "summary": "뮌헨 electronica 2026에서 칩 업체들은 피지컬 AI·엣지 AI·휴머노이드용 플랫폼을 앞세웠습니다. 전력반도체는 AI 데이터센터가 중심이었고, ADI의 Empower 인수와 와이드밴드갭 공급난이 화제였습니다.",
+      "source": "EE Times",
+      "time": "11/13 23:47"
+    }
+  ]
+}
