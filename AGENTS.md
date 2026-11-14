@@ -88,6 +88,19 @@
   - EE Times: https://www.eetimes.com
 
 
+### SECURITY
+- 국내:
+  - 보안뉴스: https://www.boannews.com
+  - 데일리시큐: https://www.dailysecu.com
+  - 데이터넷: https://www.datanet.co.kr
+  - 지디넷코리아: https://zdnet.co.kr
+- 해외:
+  - The Record: https://therecord.media
+  - SecurityWeek: https://www.securityweek.com
+  - BleepingComputer: https://www.bleepingcomputer.com
+  - The Hacker News: https://thehackernews.com
+
+
 ## 월간 트렌드 보고서 작성
 '월간 트렌드 보고서 작성', '트렌드 보고서 작성' 같은 요청을 받으면, 시작 전에 [`references/trend-report-guide.md`](references/trend-report-guide.md)를 끝까지 읽고 그 절차대로 수행한다.
 - 주제나 월이 요청에 없으면 먼저 고르게 한다(가이드 2-0).
