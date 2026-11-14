@@ -1,0 +1,128 @@
+{
+  "published_at": "2026-11-15T03:51",
+  "title": "SEMICONDUCTOR 뉴스레터",
+  "emoji": "🔬",
+  "sources": ["DIGITIMES", "전자신문", "디지털데일리", "SemiEngineering"],
+  "articles": [
+    {
+      "category": "equipment",
+      "title": "호야, 삼성전자의 2027년 EUV 마스크 블랭크 요청 물량 전량 공급 어려워",
+      "url": "https://www.digitimes.com/news/a20261112VL210/hoya-euv-photomask-samsung-2027.html",
+      "summary": "일본 호야가 삼성전자가 요청한 2027년 EUV 마스크 블랭크 추가 물량을 다 맞추기 어렵다는 보도입니다. EUV 핵심 소재 공급 병목이 삼성 첨단 공정 증설의 변수가 될 수 있습니다.",
+      "source": "DIGITIMES",
+      "time": "11/15 02:57"
+    },
+    {
+      "category": "equipment",
+      "title": "폭스콘, 5μm 팬아웃 RDL 패키징으로 차량용 칩렛 시장 공략",
+      "url": "https://www.digitimes.com/news/a20261112PD242/packaging-ai-applications-foxconn-automotive-training.html",
+      "summary": "폭스콘이 테크데이에서 약 5μm 미세 배선 팬아웃 RDL 기술을 공개하며 첨단 패키징 시장에 진입했습니다. 차량용 칩렛·엣지 AI를 겨냥해 배선 밀도와 원가의 균형을 노립니다.",
+      "source": "DIGITIMES",
+      "time": "11/15 02:59"
+    },
+    {
+      "category": "memory",
+      "title": "이트론, 파워칩 이노베이션 인베스트먼트에 전략적 지분 투자 계획",
+      "url": "https://www.digitimes.com/news/a20261112PD224/etron-ic-2026-revenue-demand.html",
+      "summary": "메모리 IC 설계사 이트론의 3분기 매출이 메모리 가격 상승에 힘입어 전년 대비 535% 급증하고 흑자 전환했습니다. PSMC 계열 투자사 지분 인수도 추진합니다. 메모리 호황의 수혜가 중소 설계사까지 번지고 있습니다.",
+      "source": "DIGITIMES",
+      "time": "11/14 22:00"
+    },
+    {
+      "category": "memory",
+      "title": "HBM4 컨트롤러 기능을 메모리 쪽으로 이동 (UC 리버사이드)",
+      "url": "https://semiengineering.com/shifting-hbm4-controller-functions-closer-to-memory-uc-riverside/",
+      "summary": "UC 리버사이드 연구진이 HBM4 메모리 컨트롤러 기능을 호스트와 로직 공정 베이스 다이 사이에 어떻게 나눌지 4가지 배치로 정량 비교했습니다. 커스텀 HBM과 메모리·파운드리 협업 흐름을 이해하는 데 참고할 만합니다.",
+      "source": "SemiEngineering",
+      "time": "11/14 06:53"
+    },
+    {
+      "category": "system_foundry",
+      "title": "메타엑스·유비테크 로봇칩 합작사 시렉트, 5억 위안 유치해 엔비디아 Thor에 도전",
+      "url": "https://www.digitimes.com/news/a20261112VL205/robot-nvidia-metax-gpu-software.html",
+      "summary": "중국 GPU 설계사 메타엑스와 휴머노이드 업체 유비테크의 합작사 시렉트가 5억 위안 엔젤 투자를 유치했습니다. 엔비디아 Thor에 맞설 중국산 체화 AI 컴퓨팅 플랫폼을 개발합니다.",
+      "source": "DIGITIMES",
+      "time": "11/15 02:58"
+    },
+    {
+      "category": "market",
+      "title": "젠슨 황 퇴진에 670조원 AI 금융구상 이탈 움직임",
+      "url": "https://www.etnews.com/20261114000007",
+      "summary": "젠슨 황 전 CEO가 월가 금융사들과 추진하던 5000억달러 규모 AI 컴퓨팅(반도체 구매) 금융지원 구상이 흔들리고, 최소 1곳이 참여 철회를 논의 중이라는 NYT 보도입니다. AI 칩 수요를 떠받친 금융 구조의 리스크 신호입니다.",
+      "source": "전자신문",
+      "time": "11/14 08:57"
+    },
+    {
+      "category": "market",
+      "title": "FT \"엔비디아, 차기 수장 선임 위해 Arm CEO 접촉\"…엔비디아는 부인",
+      "url": "https://www.etnews.com/20261114000005",
+      "summary": "FT가 엔비디아 이사회가 후임 CEO 후보로 엔비디아 출신 르네 하스 Arm CEO와 접촉했다고 보도했습니다. 엔비디아는 아직 공식 연락한 후보가 없고 헤드헌팅 업체 선정 단계라며 부인했습니다.",
+      "source": "전자신문",
+      "time": "11/14 08:49"
+    },
+    {
+      "category": "market",
+      "title": "젠슨 황이 '겁먹은 사슴'이라 비하한 임원, 엔비디아 새 수장으로… 콜레트 크레스는 누구?",
+      "url": "https://www.etnews.com/20261114000017",
+      "summary": "임시 CEO가 된 콜레트 크레스 CFO는 고객사 신용보증 등 대규모 금융지원 거래의 위험을 견제해 온 인물입니다. 엔비디아가 이미 약정한 웨이퍼·메모리 구매 물량 부담도 함께 짚었습니다.",
+      "source": "전자신문",
+      "time": "11/14 14:30"
+    },
+    {
+      "category": "market",
+      "title": "에이서 창업자 \"젠슨 황 사임, 대만 AI 산업 흔들지 못할 것\"",
+      "url": "https://www.digitimes.com/news/a20261113PD245/taiwan-nvidia-jensen-huang-ceo-acer.html",
+      "summary": "스탠 시 에이서 창업자는 황의 사임이 대만 반도체·AI 산업을 흔들지 않을 것이라고 봤습니다. 다만 공급사 관계, 투자, 시장 기대에는 일부 조정이 있을 수 있다고 했습니다.",
+      "source": "DIGITIMES",
+      "time": "11/14 12:40"
+    },
+    {
+      "category": "market",
+      "title": "AI 서버 트래커: 에이스피드 월매출 NT$20억 돌파, 케이블 공급사는 희비 엇갈려",
+      "url": "https://www.digitimes.com/news/a20261111VL224/aspeed-bizlink-growth-revenue-sales.html",
+      "summary": "BMC 칩 업체 에이스피드가 2019년 이후 최대 월매출을 기록했습니다. 비즈링크는 인수 효과로 급증했지만 다른 케이블·커넥터 업체 4곳은 전월보다 매출이 줄었습니다.",
+      "source": "DIGITIMES",
+      "time": "11/14 12:41"
+    },
+    {
+      "category": "policy",
+      "title": "로이터 \"엔비디아 의존 中 AI 프로젝트 규모 4조6000억원 이상\"",
+      "url": "https://www.etnews.com/20261114000015",
+      "summary": "로이터 분석 결과 엔비디아 H100·H200·H800 칩에 기반한 중국 AI 프로젝트가 230억위안(약 4.6조원) 이상으로 집계됐습니다. 미 의회의 대중 수출통제 강화 압박으로 공급 차질이 우려됩니다.",
+      "source": "전자신문",
+      "time": "11/14 11:20"
+    },
+    {
+      "category": "policy",
+      "title": "\"앨리스 황, 중국 국가안전부 반도체팀 소속\"-대만 매체",
+      "url": "https://www.etnews.com/20261114000003",
+      "summary": "대만 자유시보는 중국 국가안전부가 '반도체팀'을 두고 첨단 칩 우회 확보와 미국 수출규제 완화 로비를 해왔으며 앨리스 황이 그 일원이라고 보도했습니다. 미중 수출통제 긴장이 더 커질 수 있습니다.",
+      "source": "전자신문",
+      "time": "11/14 08:41"
+    },
+    {
+      "category": "policy",
+      "title": "트럼프, AI 반도체 수출통제 풀기 직전에 엔비디아 주식 매수?…이해충돌 논란",
+      "url": "https://www.ddaily.co.kr/page/view/2026111416582223965",
+      "summary": "가디언이 반부패 단체를 인용해 트럼프 대통령이 지난해 AI 반도체 수출규제 폐기 전 엔비디아 주식을 샀다는 의혹을 보도했습니다. 수출통제 정책의 정치적 변수로 떠오를 수 있습니다.",
+      "source": "디지털데일리",
+      "time": "11/14 21:26"
+    },
+    {
+      "category": "others",
+      "title": "엔비디아 전기 쓴 작가, 젠슨 황 왜 그랬을까?…\"오만·침묵 문화가 몰락 불러\"",
+      "url": "https://www.ddaily.co.kr/page/view/2026111414580439936",
+      "summary": "젠슨 황 전기 '생각하는 기계'의 저자 스티븐 위트가 NYT 기고에서 황의 퇴진 원인으로 과신과 엔비디아 사내 '침묵의 문화'를 꼽았습니다.",
+      "source": "디지털데일리",
+      "time": "11/14 14:58"
+    },
+    {
+      "category": "others",
+      "title": "젠슨 황의 엔비디아 시대는 끝날지 모르지만, 대만은 아직 작별할 준비가 안 됐다",
+      "url": "https://www.digitimes.com/news/a20261114VL200/nvidia-taiwan-2022-jensen-huang-taipei.html",
+      "summary": "젠슨 황 퇴진 이후 그와 대만의 깊은 관계, 그리고 대만 AI·반도체 공급망에서 그가 상징해 온 의미를 짚은 기획 기사입니다.",
+      "source": "DIGITIMES",
+      "time": "11/14 12:39"
+    }
+  ]
+}
