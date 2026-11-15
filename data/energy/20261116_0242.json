@@ -1,0 +1,66 @@
+{
+  "published_at": "2026-11-16T02:42",
+  "title": "ENERGY 뉴스레터",
+  "emoji": "⚡",
+  "sources": ["전기신문", "에너지경제"],
+  "articles": [
+    {
+      "category": "grid",
+      "title": "대규모 전력수요 지방 분산 유도…수도권 데이터센터 평가 강화",
+      "url": "https://www.electimes.com/news/articleView.html?idxno=374763",
+      "summary": "11월 16일부터 '전력계통영향평가' 규정이 시행돼요. 수도권 데이터센터의 통과 기준이 70점에서 75점으로 오르고 전력이용밀도 항목이 새로 생기며, 비수도권에 지으면 가점을 받아요. 통보서는 양도할 수 없고 유효기간은 1년이라 실제로 짓지 않을 '허수' 신청이 걸러질 전망이에요.",
+      "source": "전기신문",
+      "time": "11/15 14:02"
+    },
+    {
+      "category": "grid",
+      "title": "SK, 반도체→AI팩토리→에너지 연결한다…최태원 'AI 플라이휠' 승부수",
+      "url": "https://www.ekn.kr/web/view.php?key=20261115027389774",
+      "summary": "SK그룹이 CEO세미나에서 'AI 플라이휠' 전략을 내놨어요. AI 반도체에서 AI 데이터센터, 전력·에너지, AI 서비스까지 그룹 사업을 하나의 선순환 구조로 묶는 구상이에요. '리밸런싱 2.0'으로 확보한 자원을 AI 중심 성장사업에 몰아줄 계획입니다.",
+      "source": "에너지경제",
+      "time": "11/15 09:48"
+    },
+    {
+      "category": "grid",
+      "title": "슈나이더일렉트릭, AIDC용 하이브리드 냉각수 분배 장치 '모티브에어 WCDU' 출시",
+      "url": "https://www.electimes.com/news/articleView.html?idxno=374773",
+      "summary": "데이터홀을 다시 설계하지 않고도 공랭과 액체냉각의 비중을 조절할 수 있는 CDU예요. 1대로 최대 3.5MW를 냉각하고, 20대를 묶으면 30~40MW급 AI 데이터홀을 지원해요. 운전 온도를 높게 잡아 시스템 전체의 에너지 효율을 끌어올렸어요.",
+      "source": "전기신문",
+      "time": "11/15 19:04"
+    },
+    {
+      "category": "policy",
+      "title": "구리가격·SMP↑…한전, 투자·전력구매 '나갈 돈' 늘어 투자 부담↑",
+      "url": "https://www.ekn.kr/web/view.php?key=20261113022419517",
+      "summary": "구리값이 1년 새 30% 올라 톤당 약 1만4천 달러가 되면서 송전망 투자비 부담이 커졌어요. SMP와 발전용 LNG 단가도 함께 올랐어요. 한전은 1~3분기 영업이익이 43% 줄었고 차입금은 86조원에 달해, 한전채 발행 한도를 유지해야 한다는 목소리가 나와요.",
+      "source": "에너지경제",
+      "time": "11/15 09:00"
+    },
+    {
+      "category": "nuclear",
+      "title": "무보, 슬로바키아 수출입은행과 원전·에너지 금융협력 강화",
+      "url": "https://www.electimes.com/news/articleView.html?idxno=374762",
+      "summary": "한국무역보험공사가 슬로바키아 수출입은행과 원전·전력 프로젝트 금융 협력 협약을 맺었어요. 신규 프로젝트 정보를 나누고 공동 금융구조를 짜기로 했어요. 슬로바키아는 원전 비중이 절반이 넘고 신규 원전을 추진 중이라, 국내 원전 기업이 유럽에 진출할 발판이 될 수 있어요.",
+      "source": "전기신문",
+      "time": "11/15 13:52"
+    },
+    {
+      "category": "power_plant",
+      "category_label": "발전설비·O&M",
+      "category_emoji": "🏭",
+      "title": "두산에너빌, 발전소 운영·정비에 AI…고객사와 기술 공유",
+      "url": "https://www.electimes.com/news/articleView.html?idxno=374757",
+      "summary": "두산에너빌리티가 국내 발전사들에 AI 원격감시·진단, AI 미세균열 탐지, 예측진단 솔루션 'PreVision' 등을 소개했어요. 가스터빈 공급을 늘리는 동시에 장기 서비스와 디지털 솔루션 사업을 키우는 흐름이에요.",
+      "source": "전기신문",
+      "time": "11/15 10:19"
+    },
+    {
+      "category": "power_plant",
+      "title": "경남도, 굴 껍데기 발전소 탈황제로… 국내 첫 상용화",
+      "url": "https://www.electimes.com/news/articleView.html?idxno=374758",
+      "summary": "통영 굴 껍데기 자원화시설이 한국남부발전과 연 2만t 규모의 탈황제 공급계약을 맺었어요. 하동 발전소에서 석회석 대신 쓰는 국내 첫 상용 사례예요. 석회석 대체율은 20%로 시작해 40%까지 높일 계획이에요.",
+      "source": "전기신문",
+      "time": "11/15 11:39"
+    }
+  ]
+}

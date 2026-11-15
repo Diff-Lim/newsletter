@@ -51,6 +51,12 @@
       "emoji": "📜",
       "label": "정책·시장",
       "color": "#9333ea"
+    },
+    {
+      "id": "power_plant",
+      "emoji": "🏭",
+      "label": "발전설비·O&M",
+      "color": "#0d9488"
     }
   ]
 }
