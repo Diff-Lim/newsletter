@@ -1,0 +1,128 @@
+{
+  "published_at": "2026-11-16T03:35",
+  "title": "SECURITY 뉴스레터",
+  "emoji": "🔐",
+  "sources": ["보안뉴스", "데일리시큐", "데이터넷", "지디넷코리아", "BleepingComputer", "SecurityWeek", "The Hacker News"],
+  "articles": [
+    {
+      "category": "ai_security",
+      "title": "FBI 경고: AI 해킹 도구 'ARTEX', 전 세계 사이버공격에 악용",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
+      "summary": "FBI가 오픈소스 AI 침투테스트 도구 ARTEX가 8월부터 여러 해커 조직에 악용되고 있다고 경고했습니다. 외부 LLM과 연동해 정찰·권한 상승·데이터 탈취를 자동화하며, 일부는 3시간 만에 관리자 권한을 얻었습니다. ConnectWise 공급망 침해에도 쓰였습니다.",
+      "source": "BleepingComputer",
+      "time": "11/16 03:29"
+    },
+    {
+      "category": "ai_security",
+      "title": "Cursor \"도난된 Fireworks AI 키가 Claude Code 확장 프로그램 변조 사고로 이어져\"",
+      "url": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
+      "summary": "Cursor 마켓플레이스의 Claude Code 확장이 악성으로 바뀐 사고의 원인이 밝혀졌습니다. Cursor가 Fireworks AI에 발급한 접근 키가 Fireworks AI 침해로 유출돼 공격자에게 악용됐습니다. AI 개발도구 공급망 위험을 보여주는 사례입니다.",
+      "source": "The Hacker News",
+      "time": "11/15 17:22"
+    },
+    {
+      "category": "ai_security",
+      "title": "알리바바 클라우드에 띄운 AI 해킹 도구... ‘안티폭스’로 AWS 운영 비밀 정보 빼냈다",
+      "url": "https://www.boannews.com/news/articleView.html?idxno=147198",
+      "summary": "AI 침투 테스트 도구 '안티폭스'가 실제 공격에 쓰이고 있습니다. 공격자들은 알리바바 클라우드에서 이 도구를 돌려 웹 서비스와 AWS 환경을 공격했고, 일부는 운영 비밀 정보 탈취에 성공했습니다. 아틱울프가 여러 침입 사례에서 확인했습니다.",
+      "source": "보안뉴스",
+      "time": "11/15 08:25"
+    },
+    {
+      "category": "ai_security",
+      "title": "[인터뷰] 시스코 혁신 수장 \"韓, AI 투자만으론 부족…보안·인재 함께 키워야\"",
+      "url": "https://zdnet.co.kr/view/?no=20261115110004",
+      "summary": "시스코 가이 디드리히 수석부사장은 한국이 AI 경쟁력을 유지하려면 유연한 인프라에 보안을 내재화하고, 기술 투자와 인재 양성을 함께 가져가야 한다고 강조했습니다.",
+      "source": "지디넷코리아",
+      "time": "11/15 14:00"
+    },
+    {
+      "category": "market",
+      "title": "KT텔레캅, 창립 20주년 맞아 'AX 보안기업' 비전 선포",
+      "url": "https://zdnet.co.kr/view/?no=20261115105852",
+      "summary": "KT텔레캅이 창립 20주년을 맞아 'AX 보안기업'으로의 도약을 선언했습니다. AI 기반 지능형 관제를 고도화하고 어르신 돌봄 등 신사업을 확대할 계획입니다.",
+      "source": "지디넷코리아",
+      "time": "11/15 12:11"
+    },
+    {
+      "category": "breach",
+      "title": "TSMC 임직원 개인정보 유출…클라우드 제공업체 경유 침해",
+      "url": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/",
+      "summary": "해커가 TSMC에서 훔쳤다는 6.9GB 데이터를 경매에 올렸고, TSMC가 전·현직 직원 정보 유출을 확인했습니다. 유출 데이터는 TSMC가 쓰는 클라우드 업체에 저장된 정보였으며, TSMC는 자사 시스템 침해·운영 영향은 없다고 SEC에 공시했습니다.",
+      "source": "BleepingComputer",
+      "time": "11/16 00:23"
+    },
+    {
+      "category": "breach",
+      "title": "삼성전자, 랜섬웨어 조직 ‘N0n’ 해킹 사이트에 등장…스마트TV 광고 데이터 탈취 주장...삼성 측\"해외 협력사 해킹으로 삼성과 무관\"",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=209534",
+      "summary": "랜섬웨어 조직 N0n이 삼성전자를 유출 사이트에 올리고 미국 스마트TV 시청 기록(ACR)·광고 데이터를 탈취했다고 주장했습니다. 삼성은 해외 협력사 해킹으로 삼성과는 무관하다는 입장이며, 실제 피해는 확인되지 않았습니다.",
+      "source": "데일리시큐",
+      "time": "11/15 16:02"
+    },
+    {
+      "category": "breach",
+      "title": "코인원, 고객 상담 수탁사 ‘메타엠’ 해킹으로 개인정보 유출",
+      "url": "https://www.boannews.com/news/articleView.html?idxno=147270",
+      "summary": "코인원의 고객 상담 위탁업체 메타엠 서버가 해킹돼 주민번호·계좌번호·지갑주소 등 최대 11개 항목이 유출됐을 수 있습니다. 코인원은 거래 시스템은 망 분리로 피해가 없다며 관계 기관에 신고했습니다. 제3자 위험관리 이슈가 부각됩니다.",
+      "source": "보안뉴스",
+      "time": "11/15 10:34"
+    },
+    {
+      "category": "breach",
+      "title": "한국조폐공사 모바일 상품권 ‘착’, 해킹으로 3083명 개인정보 유출",
+      "url": "https://www.boannews.com/news/articleView.html?idxno=147268",
+      "summary": "조폐공사 지역사랑상품권 앱 '착'에 외부인이 무단 접근해 3,083명의 성명·계좌번호·CI·암호화된 카드번호 등 7개 항목이 조회됐습니다. 공사는 해외 접속을 차단하고 KISA와 합동 조사 중입니다.",
+      "source": "보안뉴스",
+      "time": "11/15 09:47"
+    },
+    {
+      "category": "breach",
+      "title": "[단독] 해커, 전북교육청 해킹 자료 유출 주장…텔레그램선 “수능 응시자 정보 공개” 발언",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=209538",
+      "summary": "해킹 포럼에 전북교육청 전체 DB라는 자료가 올라왔고, 학생·학부모 정보와 통학버스 정보가 담겼다는 주장입니다. 텔레그램에선 수능 응시자 정보 공개를 예고했지만, 실제 유출 여부는 아직 확인되지 않았습니다.",
+      "source": "데일리시큐",
+      "time": "11/15 22:49"
+    },
+    {
+      "category": "threat",
+      "title": "북한 해킹조직, 정부·금융 서버 겨냥…국내 30곳 표적 명단 확인",
+      "url": "https://zdnet.co.kr/view/?no=20261115140951",
+      "summary": "라자루스 연계 추정 조직이 PHP 원격코드실행 취약점 'PHP2쉘'로 각국 정부·금융 서버를 노렸습니다. 사이퍼마가 확보한 표적 216곳 중 한국이 30곳으로 네 번째로 많았고, 표적을 581개로 늘리려 한 정황도 있습니다.",
+      "source": "지디넷코리아",
+      "time": "11/15 15:12"
+    },
+    {
+      "category": "infra",
+      "title": "[CPS 시큐어 AX 서밋 2026] “생산은 멈추면 안 된다”…황인구 CISO, 랜섬웨어 이후 바꾼 OT 보안",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=209529",
+      "summary": "2019년 랜섬웨어 피해를 겪은 고려아연의 황인구 CISO가 OT 보안 전략을 공유했습니다. 6개월간 제어 자산을 파악하고 공정별 네트워크 점검·오프라인 백업 체계를 갖췄으며, 핵심 원칙은 '생산 중단 방지'입니다.",
+      "source": "데일리시큐",
+      "time": "11/15 11:19"
+    },
+    {
+      "category": "infra",
+      "title": "[최민화의 OT보안 인사이트] M.AX, ‘제조 데이터 주권’ vs ‘클라우드 연동’의 딜레마",
+      "url": "https://www.datanet.co.kr/news/articleView.html?idxno=300167",
+      "summary": "제조 AI 대전환(M.AX)으로 OT 데이터를 클라우드·AI와 연결하는 사례가 늘고 있습니다. '폐쇄망은 안전하다'는 믿음에서 벗어나 IDMZ·마이크로세그멘테이션 같은 다층 방어가 필요하다는 기고입니다.",
+      "source": "데이터넷",
+      "time": "11/15 19:34"
+    },
+    {
+      "category": "others",
+      "title": "국가안보실, 민·관·군 IT 자산관리 전수 점검…공개 전 취약점 정보 확보 추진",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=209535",
+      "summary": "국가안보실이 민간·공공·국방 IT 자산과 네트워크 구성도를 전수 점검합니다. 취약점 정보를 공개 전에 확보해 신속히 공유하고 SBOM 도입도 앞당길 계획으로, 자산관리·SBOM 솔루션 수요 확대가 예상됩니다.",
+      "source": "데일리시큐",
+      "time": "11/15 17:57"
+    },
+    {
+      "category": "others",
+      "title": "이탈리아, 안드로이드 갤러리 무단 접근으로 Meta에 8억 8,700만 달러 과징금",
+      "url": "https://www.securityweek.com/meta-fined-887-million-in-italy-over-android-gallery-photos-and-videos-on-facebook/",
+      "summary": "이탈리아 개인정보보호청이 Meta에 약 8억 8,700만 달러(8억 500만 유로)를 부과했습니다. 안드로이드 페이스북이 명시적 동의 없이 사용자 갤러리의 사진·영상에 접근했다는 이유로, 빅테크 프라이버시 규제 리스크를 보여줍니다.",
+      "source": "SecurityWeek",
+      "time": "11/15 04:00"
+    }
+  ]
+}
