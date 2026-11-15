@@ -1,0 +1,40 @@
+{
+  "published_at": "2026-11-16T01:40",
+  "title": "BIO 뉴스레터",
+  "emoji": "🧬",
+  "sources": ["STAT News", "히트뉴스", "더바이오"],
+  "articles": [
+    {
+      "category": "approval",
+      "title": "FDA, 서밋 테라퓨틱스의 폐암 치료제 이보네시맙 승인 거절",
+      "url": "https://www.statnews.com/2026/11/15/fda-rejects-ivonescimab-lung-cancer-treatment-summit-therapeutics/",
+      "summary": "FDA가 서밋·아케소의 PD-1xVEGF 이중항체 폐암 치료제 이보네시맙 승인을 거절했어요. 암 진행은 늦췄지만 생존 기간 연장을 입증하지 못한 게 이유입니다. 키트루다 대항마로 주목받던 같은 계열 신약 개발사들에도 부담이 될 수 있어요.",
+      "source": "STAT News",
+      "time": "11/16 00:05"
+    },
+    {
+      "category": "approval",
+      "title": "美 인텔리아, 인비보 유전자편집 치료제 HAE 발작률 89%↓…4년 효과 지속",
+      "url": "https://www.thebionews.net/news/articleView.html?idxno=30234",
+      "summary": "인텔리아가 크리스퍼 유전자편집 치료제 '론보-지'의 유전성 혈관부종(HAE) 임상 결과를 ACAAI 2026에서 공개했어요. 1회 투여로 발작이 크게 줄었고 효과가 최대 4년간 이어져, 인비보 유전자편집의 '한 번 맞는 치료' 가능성을 보여줬습니다.",
+      "source": "더바이오",
+      "time": "11/15 08:35"
+    },
+    {
+      "category": "policy",
+      "title": "\"인공지능(AI)이라는 이름표가 신약의 가치를 결정해서는 안 된다\"",
+      "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=80762",
+      "summary": "정부의 제약바이오 지원이 'AI' 키워드에 쏠리고 있다는 지적이에요. 사업계획서에 AI를 넣는 것과 실제 신약 경쟁력은 별개이며, 지원·평가는 질병 기전 검증, 비임상·CMC, 임상 근거 같은 과학적 근거 중심이어야 한다고 주장합니다.",
+      "source": "히트뉴스",
+      "time": "11/15 06:00"
+    },
+    {
+      "category": "digital",
+      "title": "케이메디허브, 아·태 항노화 의료기술 협력 넓혀…‘APAAC’서 홍보관 운영",
+      "url": "https://www.thebionews.net/news/articleView.html?idxno=30262",
+      "summary": "케이메디허브가 대구 APAAC 2026에서 홍보관을 열고 의료기기 R&D 지원 인프라를 소개했어요. 해외 임상의들과 항노화·미용 의료기기 공동연구와 의료진 교육 협력을 논의했고, K-뷰티 의료기기 기업의 해외 진출을 돕겠다는 계획입니다.",
+      "source": "더바이오",
+      "time": "11/15 08:50"
+    }
+  ]
+}
