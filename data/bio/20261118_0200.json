@@ -1,0 +1,133 @@
+{
+  "published_at": "2026-11-18T02:00",
+  "title": "BIO 뉴스레터",
+  "emoji": "🧬",
+  "sources": [
+    "바이오스펙테이터",
+    "히트뉴스",
+    "BioPharma Dive",
+    "STAT News"
+  ],
+  "articles": [
+    {
+      "category": "capital",
+      "title": "AI 신약개발사 아이소모픽 랩스, 50억 달러 규모 시리즈 C 투자 유치",
+      "url": "https://www.biopharmadive.com/news/isomorphic-labs-ai-drug-discovery-financing/874863/",
+      "summary": "아이소모픽 랩스가 50억 달러 시리즈 C를 유치했다. 2022년 이후 바이오 투자 중 최대 규모다. 노바티스·J&J·릴리와 협업 중이며 항암·면역 분야 임상 진입을 준비하고 있다.",
+      "source": "BioPharma Dive",
+      "time": "11/18 00:51"
+    },
+    {
+      "category": "approval",
+      "title": "FDA, 서밋·아케소의 PD-1/VEGF 이중항체 '이보네시맙' 승인 거절…주가 하락",
+      "url": "https://www.biopharmadive.com/news/summit-akeso-fda-ivonescimab-reject-egfr-lung-cancer/874745/",
+      "summary": "FDA가 EGFR 변이 비소세포폐암 대상 이보네시맙+화학요법 병용 허가를 거절했다. 무진행생존은 개선됐지만 생존 연장 근거가 부족하다는 판단이다. 서밋의 첫 미국 승인 시도가 무산되며 이중항체 경쟁 구도에 변수가 생겼다.",
+      "source": "BioPharma Dive",
+      "time": "11/17 02:14"
+    },
+    {
+      "category": "approval",
+      "title": "FDA, 로슈 경구용 유방암 신약 '기레데스트란트' 승인…로슈 최대 매출 품목 기대",
+      "url": "https://www.statnews.com/2026/11/16/fda-approves-new-roche-breast-cancer-drug/",
+      "summary": "FDA가 로슈의 경구용 SERD 기레데스트란트를 ESR1 변이 HR+/HER2- 진행성 유방암 치료제로 승인했다. 로슈는 이 약이 회사 역대 최대 매출 제품이 될 수 있다고 밝혔다.",
+      "source": "STAT News",
+      "time": "11/17 05:56"
+    },
+    {
+      "category": "approval",
+      "title": "셀라스 혈액암 면역치료제, 3상서 AML 환자 사망 위험 41% 감소",
+      "url": "https://www.statnews.com/2026/11/17/sellas-blood-cancer-immunotherapy-succeeds-clinical-trial/",
+      "summary": "셀라스의 갈리네피뮤트-S가 진행성 급성골수성백혈병(AML) 3상에서 표준치료 대비 사망 위험을 41% 낮춰 주요 평가지표를 달성했다. 실패를 예상한 시장 전망을 뒤집은 결과다.",
+      "source": "STAT News",
+      "time": "11/17 21:00"
+    },
+    {
+      "category": "approval",
+      "title": "아리바이오, 'PDE5 저해제' AD 3상 \"전체환자군 1차 미충족\"",
+      "url": "https://www.biospectator.com/news/view/30429",
+      "summary": "아리바이오의 경구 알츠하이머 치료제 AR1001 3상(1535명)이 전체환자군에서 1차지표(CDR-SB)를 충족하지 못했다. 단독요법 하위군에서는 유의한 개선을 보여 회사는 추가 분석과 후속 개발을 계획 중이다. 국내 판권사 삼진제약 주가도 급락했다.",
+      "source": "바이오스펙테이터",
+      "time": "11/17 11:38"
+    },
+    {
+      "category": "approval",
+      "title": "HK이노엔 '케이캡' 브라질도 뚫었다",
+      "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=80843",
+      "summary": "HK이노엔의 P-CAB 신약 케이캡이 브라질 ANVISA 품목허가를 받았다. 국산 P-CAB 첫 브라질 진출로, 현지 시장은 약 1조1000억원 규모다. 유로파마가 '트레브'라는 이름으로 판매한다.",
+      "source": "히트뉴스",
+      "time": "11/17 09:18"
+    },
+    {
+      "category": "approval",
+      "title": "바이젠셀, ‘EBV T세포’ 식약처 신속처리대상 지정",
+      "url": "https://www.biospectator.com/news/view/30436",
+      "summary": "바이젠셀의 EBV 양성 NK/T세포림프종 T세포치료제 VT-EBV-N이 식약처 신속처리대상 첨단바이오의약품으로 지정돼 조건부 허가 신청과 우선심사가 가능해졌다. 회사는 조건부 허가 준비와 글로벌 기술이전 논의를 서두를 계획이다.",
+      "source": "바이오스펙테이터",
+      "time": "11/17 10:26"
+    },
+    {
+      "category": "deal",
+      "title": "롯데바이오로직스, 글로벌社와 'CMO' 수주계약 \"체결\"",
+      "url": "https://www.biospectator.com/news/view/30434",
+      "summary": "롯데바이오로직스가 송도 1공장(12만L) 준공을 앞두고 글로벌 제약사와 첫 상업생산 CMO 계약을 맺었다. 원료부터 완제까지 원스톱 생산하며, 내년 본격 가동 시 초기 매출 기반이 될 전망이다.",
+      "source": "바이오스펙테이터",
+      "time": "11/17 11:06"
+    },
+    {
+      "category": "deal",
+      "title": "GC녹십자-동방에프티엘, mRNA 핵심 원료 국내 생산 맞손",
+      "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=80844",
+      "summary": "GC녹십자가 동방에프티엘과 LNP 생산 협력 MOU를 맺고, 해외 위탁에 의존하던 mRNA 핵심 원료 이온화지질의 국내 생산을 추진한다. GC녹십자는 고발현 LNP 8종, 표적 LNP 4종 특허를 출원했다.",
+      "source": "히트뉴스",
+      "time": "11/17 09:21"
+    },
+    {
+      "category": "capital",
+      "title": "신생 바이오텍 마로우, 1.73억 달러로 유전자치료 대체할 겸상적혈구병 치료제 개발",
+      "url": "https://www.biopharmadive.com/news/marrow-therapeutics-sickle-cell-beta-thalassemia-drug/874789/",
+      "summary": "마로우 테라퓨틱스가 시리즈 A·B로 1억7300만 달러를 유치하며 출범했다. 겸상적혈구병·베타지중해빈혈에서 유전자치료만큼 효과적이면서 제조·접근이 쉬운 치료제(MAR-101)를 개발한다.",
+      "source": "BioPharma Dive",
+      "time": "11/17 21:00"
+    },
+    {
+      "category": "earnings",
+      "title": "제약업계 3분기 성장률 다시 5%대로…'평년작' 속 신약이 버팀목",
+      "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=80833",
+      "summary": "66개 제약사의 3분기 매출은 6조7198억원으로 5.41% 늘어 2분기(9.20%)보다 성장이 둔화됐다. 누적 영업이익은 5.66% 증가했지만 순이익은 8.36% 감소했다. 자체 신약 점유율 확대가 실적 변수로 꼽힌다.",
+      "source": "히트뉴스",
+      "time": "11/17 07:55"
+    },
+    {
+      "category": "policy",
+      "title": "당뇨약 급여기준 확대 또 '약가' 변수…'GLP-1' 행보 주목",
+      "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=80829",
+      "summary": "심평원이 메트포르민 우선투여 완화와 GLP-1 병용 확대를 담은 당뇨약 급여기준 개정을 앞두고 제약사에 재정영향 자료를 요청했다. 약가 자진인하 협조가 관건이며, 오젬픽도 포함돼 노보노디스크 대응이 주목된다.",
+      "source": "히트뉴스",
+      "time": "11/17 14:25"
+    },
+    {
+      "category": "policy",
+      "title": "트럼프 행정부 '부정행위 근절' 규정안…절감액 대부분은 메디케어 어드밴티지 감사에서",
+      "url": "https://www.statnews.com/2026/11/16/cms-proposes-more-agressive-audits-medicare-advantage-crush/",
+      "summary": "CMS가 10년간 900억 달러 절감을 내세운 부정행위 방지 규정안을 내놨다. 절감액 대부분이 메디케어 어드밴티지(MA) 플랜 감사 강화에서 나와 보험사 부담이 커질 전망이다.",
+      "source": "STAT News",
+      "time": "11/17 08:45"
+    },
+    {
+      "category": "policy",
+      "title": "차세대 GLP-1 비만약, 저소득국 의약품 접근성 갈등의 새 전장 될 수도",
+      "url": "https://www.statnews.com/pharmalot/2026/11/16/semaglutide-obesity-glp1-access-medicines-low-income-countries/",
+      "summary": "세마글루타이드 제네릭이 여러 나라에 풀리는 가운데, 더 효과적인 차세대 GLP-1 약이 저소득국 접근성 논란을 키울 수 있다는 분석이다. 제약사들이 지금부터 라이선스 계획을 준비해야 한다는 조언이 나왔다.",
+      "source": "STAT News",
+      "time": "11/17 03:18"
+    },
+    {
+      "category": "digital",
+      "title": "루닛, RSNA서 'AI 진단 솔루션' 17건..\"구두발표 11건\"",
+      "url": "https://www.biospectator.com/news/view/30428",
+      "summary": "루닛이 RSNA 2026에서 AI 영상분석 연구 17건(구두발표 11건)을 발표한다. 15건이 유방암 관련으로 병변 검출, 위험도 예측, AI 자율 판독, FDA 허가 AI 4종 성능 비교 등을 다룬다.",
+      "source": "바이오스펙테이터",
+      "time": "11/17 09:45"
+    }
+  ]
+}
