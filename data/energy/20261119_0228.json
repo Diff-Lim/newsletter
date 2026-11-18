@@ -1,0 +1,88 @@
+{
+  "published_at": "2026-11-19T02:28",
+  "title": "ENERGY 뉴스레터",
+  "emoji": "⚡",
+  "sources": ["Energy-Storage.news", "Utility Dive", "Canary Media", "전기신문", "에너지경제", "이투뉴스"],
+  "articles": [
+    {
+      "category": "storage",
+      "title": "삼성SDI·EQT·캐나디안솔라, RE+ 기간 중 잇단 거래 발표 (US 라운드업)",
+      "url": "https://www.energy-storage.news/us-roundup-samsung-sdi-eqt-canadian-solar-deals-re-plus/",
+      "summary": "삼성SDI 미국 법인이 ESS 개발사 Jupiter Power와 16GWh 규모 LFP 배터리 공급 계약을 맺었습니다. 2029년부터 3년간 공급하며, 인디애나 전기차 배터리 라인을 ESS용 LFP 라인으로 바꿔 미국 내 생산 요건을 맞춥니다.",
+      "source": "Energy-Storage.news",
+      "time": "11/18 23:53"
+    },
+    {
+      "category": "storage",
+      "title": "ESS Inc, 챕터 7 파산 신청… Stem Inc는 Athena 플랫폼 매각 속 '존속 능력' 의문 제기",
+      "url": "https://www.energy-storage.news/ess-inc-files-for-chapter-7-bankruptcy-stem-inc-flags-going-concern-doubts-amidst-athena-optimisation-platform-sale/",
+      "summary": "철 흐름전지 업체 ESS Inc가 청산형 파산(챕터 7)을 신청했습니다. 지난달 나스닥에서 상장 폐지됐습니다. ESS 통합업체 Stem도 핵심 소프트웨어 Athena를 판 뒤 계속기업 존속 능력에 의문을 공시해, 미국 ESS 업계 구조조정이 이어지고 있습니다.",
+      "source": "Energy-Storage.news",
+      "time": "11/18 20:50"
+    },
+    {
+      "category": "policy",
+      "title": "데이터센터 둔화 시 유틸리티 투자 위험 커져",
+      "url": "https://www.utilitydive.com/news/data-center-slowdown-raises-risks-for-utility-investments/874924/",
+      "summary": "Orennia 보고서에 따르면 중간선거 이후 텍사스·오하이오·조지아 등지에 계획된 데이터센터 191GW가 새 위험에 놓였습니다. 데이터센터가 지연·취소되면 이를 보고 수십억 달러를 투자한 유틸리티가 비용을 떠안을 수 있습니다.",
+      "source": "Utility Dive",
+      "time": "11/18 03:10"
+    },
+    {
+      "category": "policy",
+      "title": "발전5사 통합, ‘지배구조·재산권’ 최대 쟁점 부상",
+      "url": "https://www.electimes.com/news/articleView.html?idxno=374943",
+      "summary": "국회가 발전공기업 통합 법안 공청회를 열었습니다. 발의된 8개 법안 중 7개가 정부 직접 지배형 공사 모델을 택했는데, 한전 주주 재산권 침해와 큰 재정 부담 우려가 나와 통합법인 지배구조가 최대 쟁점이 됐습니다.",
+      "source": "전기신문",
+      "time": "11/18 17:00"
+    },
+    {
+      "category": "renewables",
+      "title": "구글, 오리건 데이터센터 전력으로 초고온 지열에 베팅",
+      "url": "https://www.canarymedia.com/articles/geothermal/google-superhot-geothermal-oregon-data-centers",
+      "summary": "지열 스타트업 Quaise Energy가 오리건 첫 상업 프로젝트 'Obsidian'의 첫 대형 고객으로 구글을 확보했습니다. 구글은 무탄소 전력 50MW를 구매합니다. 초고온 심부 지열이 데이터센터 기저전원으로 주목받고 있습니다.",
+      "source": "Canary Media",
+      "time": "11/18 04:00"
+    },
+    {
+      "category": "renewables",
+      "title": "[단독] 한전 ‘재생e총괄실’ 신설…햇빛소득마을·PPA 전담",
+      "url": "https://www.ekn.kr/web/view.php?key=20261118022001255",
+      "summary": "한국전력이 정부의 재생에너지 확대 정책에 맞춰 관련 업무를 총괄하는 '재생e총괄실'을 신설했습니다. 햇빛소득마을 확대와 전력구매계약(PPA) 업무를 전담해, 분산형 태양광 사업 기회가 커질 전망입니다.",
+      "source": "에너지경제",
+      "time": "11/18 11:27"
+    },
+    {
+      "category": "grid",
+      "title": "National Grid·Eversource, 가상발전소(VPP)로 지역 배전망 제약 해결",
+      "url": "https://www.utilitydive.com/news/national-grid-eversource-vpp-demand-response/875039/",
+      "summary": "Eversource는 스마트 온도조절기 약 10만 대와 상업·산업 고객 2.5만 곳을 VPP로 운영합니다. National Grid의 분산자원 부하는 뉴욕 북부에서 350MW 이상(피크의 5%)에 이릅니다. VPP가 배전망 제약 해소용으로 확대되는 사례입니다.",
+      "source": "Utility Dive",
+      "time": "11/19 00:31"
+    },
+    {
+      "category": "oil_gas",
+      "title": "가스公 홍의락 사장 “가스요금 올려야”…MJ당 1원 인상 시 미수금 5000억원 회수",
+      "url": "https://www.electimes.com/news/articleView.html?idxno=374941",
+      "summary": "홍의락 가스공사 사장이 민수용 가스요금을 오래 억눌러 미수금이 쌓였다며 요금 인상이 필요하다고 밝혔습니다. MJ당 1원만 올려도 미수금 5000억원을 회수할 수 있고, 장기계약 확대와 트레이딩 역량 강화도 시급하다고 했습니다.",
+      "source": "전기신문",
+      "time": "11/18 16:00"
+    },
+    {
+      "category": "hydrogen",
+      "title": "SK이노베이션, 그린수소 생산효율 높인 수전해 촉매 개발",
+      "url": "https://www.e2news.com/news/articleView.html?idxno=336242",
+      "summary": "SK이노베이션이 그린수소 생산효율과 내구성을 높인 수전해 촉매를 개발했습니다. 재생에너지 전력이 들쭉날쭉해도 안정적으로 수소를 만들 수 있어, 차세대 지속가능항공유(e-SAF) 원료 생산에 활용될 전망입니다.",
+      "source": "이투뉴스",
+      "time": "11/18 17:48"
+    },
+    {
+      "category": "nuclear",
+      "title": "“48년간 못 푼 고준위 방폐물 숙제”...2038년 부지선정 가능할까",
+      "url": "https://www.electimes.com/news/articleView.html?idxno=374906",
+      "summary": "정부가 2038년 전까지 고준위 방사성폐기물 처분시설 부지를 정하겠다는 3차 기본계획안을 내놓았습니다. 특별법으로 법적 기반은 생겼지만, 아홉 번 실패한 부지 선정을 10여 년 안에 끝낼 수 있을지가 관건입니다.",
+      "source": "전기신문",
+      "time": "11/18 08:55"
+    }
+  ]
+}
