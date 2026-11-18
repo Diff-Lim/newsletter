@@ -1,0 +1,128 @@
+{
+  "published_at": "2026-11-19T01:37",
+  "title": "BIO 뉴스레터",
+  "emoji": "🧬",
+  "sources": ["Fierce Biotech", "바이오스펙테이터", "BioPharma Dive", "STAT News", "히트뉴스", "더바이오"],
+  "articles": [
+    {
+      "category": "deal",
+      "title": "화이자, 중국 스타나와 26억 달러 계약으로 in vivo CAR-T 3종 확보",
+      "url": "https://www.fiercebiotech.com/biotech/pfizer-enters-vivo-car-t-space-3-program-26b-deal-chinas-starna",
+      "summary": "화이자가 선급금 3억3천만 달러, 마일스톤 최대 23억 달러 조건으로 중국 스타나의 자가면역질환용 in vivo CAR-T 3종 권리를 확보했다. 화이자의 첫 in vivo CAR-T 진출로, 빅파마의 중국 신약 도입 흐름이 이어지고 있다.",
+      "source": "Fierce Biotech",
+      "time": "11/18 22:30"
+    },
+    {
+      "category": "deal",
+      "title": "J&J, 올린 33.25억弗 인수..\"VEGFxAng-2 항체 확보\"",
+      "url": "https://www.biospectator.com/news/view/30430",
+      "summary": "J&J가 안질환 바이오텍 올린을 최대 33억2500만달러(계약금 22억달러)에 인수해 당뇨병성 황반부종·습성 황반변성 3상 이중항체 'OLN324'를 확보했다. 1b상에서 로슈 '바비스모'보다 효능이 우월했다고 회사는 설명했다.",
+      "source": "바이오스펙테이터",
+      "time": "11/18 05:59"
+    },
+    {
+      "category": "deal",
+      "title": "릴리, 스티플과 '암특이 에피토프' 바인더 발굴 59억弗 딜",
+      "url": "https://www.biospectator.com/news/view/30449",
+      "summary": "일라이릴리가 스티플바이오와 총 59억달러 규모 연구협력·라이선스 계약을 맺었다. 종양세포만 골라 붙는 바인더를 찾아 정상조직 독성을 줄이는 플랫폼으로, 릴리는 이를 여러 모달리티 신약에 활용할 계획이다.",
+      "source": "바이오스펙테이터",
+      "time": "11/18 11:32"
+    },
+    {
+      "category": "deal",
+      "title": "릴리, 칼리트릭스 15억弗 인수..\"mCALR 이중항체 개발\"",
+      "url": "https://www.biospectator.com/news/view/30431",
+      "summary": "릴리가 칼리트릭스 바이오를 최대 15억달러에 인수해 골수증식종양 원인인 변이 칼레티쿨린(mCALR) 표적 이중항체를 확보했다. 4월 에이잭스·켈로니아 인수에 이어 반년 만의 혈액암 M&A다.",
+      "source": "바이오스펙테이터",
+      "time": "11/18 09:10"
+    },
+    {
+      "category": "approval",
+      "title": "머크, 3상 데이터 확인 후 27억 달러 BTK 억제제 개발 중단",
+      "url": "https://www.fiercebiotech.com/biotech/merck-axes-27b-btk-inhibitor-program-after-seeing-phase-3-data",
+      "summary": "머크가 CLL·SLL 대상 BTK 억제제 넴타브루티닙의 3상 프로그램 전체를 접었다. 데이터모니터링위원회가 위험이 이익보다 클 수 있다고 판단했기 때문이다. 2019년 아르큘을 27억 달러에 인수해 얻은 핵심 자산이었다.",
+      "source": "Fierce Biotech",
+      "time": "11/18 17:11"
+    },
+    {
+      "category": "approval",
+      "title": "FDA, 서밋 신약 거절 서한 공개; 누발렌트 인수로 GSK 추가 성과",
+      "url": "https://www.biopharmadive.com/news/summit-crl-sellas-data-nelkarmi-lilly-astrazeneca-biogen/874825/",
+      "summary": "FDA가 이보네시맙 거절 서한을 공개하고 생존 이점, 효과 크기, 미국 환자 적용성을 문제 삼아 새 임상을 요구했다. GSK는 누발렌트 인수로 얻은 폐암 신약 넬카르미의 승인을 받았고, 셀라스는 AML 백신 3상 성공으로 주가가 160% 넘게 올랐다.",
+      "source": "BioPharma Dive",
+      "time": "11/18 23:21"
+    },
+    {
+      "category": "approval",
+      "title": "바이오젠 타우 표적 치료제, 알츠하이머 장기 추적에서 효과 확대",
+      "url": "https://www.fiercebiotech.com/biotech/biogens-tau-therapy-drives-bigger-benefits-2-year-alzheimers-update",
+      "summary": "바이오젠의 타우 표적 ASO '디라너센'이 2상 연장시험 96주차에 임상 악화를 38% 늦췄다. 76주차(26%)보다 효과가 커졌다. 다만 공개 연장 자료라는 한계가 있어 3상 검증이 필요하다.",
+      "source": "Fierce Biotech",
+      "time": "11/18 23:26"
+    },
+    {
+      "category": "policy",
+      "title": "백악관, 하이디 오버턴 FDA 국장 지명 철회",
+      "url": "https://www.statnews.com/2026/11/17/heidi-overton-fda-commissioner-nomination-withdrawn/",
+      "summary": "트럼프 행정부가 상원 표결을 하루 앞두고 오버턴 FDA 국장 후보 지명을 철회했다. 캐시디 상원 보건위원장은 인준 지지를 확보한 상태였다며 반발했다. FDA 수장 공백이 길어지며 허가 일정 불확실성이 커질 수 있다.",
+      "source": "STAT News",
+      "time": "11/18 09:44"
+    },
+    {
+      "category": "policy",
+      "title": "세계가 찾는 K-바이오시밀러, 한국 의료현장 처방 침투율 겨우 33%",
+      "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=80871",
+      "summary": "삼성바이오에피스·셀트리온이 세계에 바이오시밀러를 공급하지만, 국내 처방 침투율은 33.1%로 영국(80%)·일본(58%)보다 낮다. 바이오협회는 처방 장려 정책을 도입하면 5년간 최대 4117억원의 건보 재정을 아낄 수 있다고 추산했다.",
+      "source": "히트뉴스",
+      "time": "11/18 12:04"
+    },
+    {
+      "category": "digital",
+      "title": "개정 의료정보 프라이버시 규칙, 앱과의 의료기록 공유 기준 마련",
+      "url": "https://www.statnews.com/2026/11/17/hipaa-privacy-rule-update-aims-to-improve-patient-access-to-records/",
+      "summary": "미국 보건복지부가 2021년 제안했던 HIPAA 프라이버시 규칙 개정안을 확정했다. 환자가 자기 의료기록을 보고 앱과 공유하기 쉬워지며, 의료기관의 기록 요청 응답 기한도 짧아진다. 헬스케어 앱·데이터 사업에 영향이 클 전망이다.",
+      "source": "STAT News",
+      "time": "11/18 04:44"
+    },
+    {
+      "category": "earnings",
+      "title": "매출 늘어도 적자, 기술료에 흑자… 코스닥 바이오 3분기 명암",
+      "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=80866",
+      "summary": "코스닥 신약·플랫폼 바이오 10곳 중 3분기 영업흑자는 알테오젠(영업이익 789억원)과 에스티팜(157억원)뿐이었다. 리가켐바이오는 기술료가 줄어 504억원 적자를 냈고, HLB도 적자가 커졌다. 기술료와 CDMO가 실적을 가른 셈이다.",
+      "source": "히트뉴스",
+      "time": "11/18 06:07"
+    },
+    {
+      "category": "capital",
+      "title": "보령, 영업법인 따로 둔다…예정대로 내년 1월 분할",
+      "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=80896",
+      "summary": "보령의 영업부문 물적분할에 반대한 주주의 주식매수청구액이 약 290억원으로 철회 기준(500억원)에 못 미쳐, 분할이 예정대로 진행된다. 내년 1월 영업·마케팅 자회사 '보령파마솔루션'을 세우고 2030년 국내 매출 2조원을 노린다.",
+      "source": "히트뉴스",
+      "time": "11/18 16:05"
+    },
+    {
+      "category": "capital",
+      "title": "“내년 ApoE4 항체 기술수출 기대”…아델, 사노피 1.4조 L/O 후속 성과 자신",
+      "url": "https://www.thebionews.net/news/articleView.html?idxno=30413",
+      "summary": "코스닥 상장을 앞둔 아델이 IPO 간담회에서 내년 ApoE4 항체 'ADEL-Y04'의 기술수출을 기대한다고 밝혔다. 아델은 지난해 사노피에 타우 항체를 10억4000만달러에 넘겼고, 사노피가 후속 임상을 준비하고 있다.",
+      "source": "더바이오",
+      "time": "11/18 14:53"
+    },
+    {
+      "category": "others",
+      "title": "신유열號 롯데바이오, 韓·美 듀얼사이트 구축…고객 밀착 전략, CDMO 승부수",
+      "url": "https://www.thebionews.net/news/articleView.html?idxno=30419",
+      "summary": "롯데바이오로직스가 12만리터 규모 송도 1공장을 준공하고, 상업생산 준비를 6개월 앞당겼다. 첫 상업생산 CMO 계약도 따냈다. 송도·미국 시러큐스 이원화 생산과 ADC 역량을 앞세워 북미·일본 고객을 공략한다.",
+      "source": "더바이오",
+      "time": "11/18 17:27"
+    },
+    {
+      "category": "others",
+      "title": "화이자 CEO “2030년 최대 경쟁자는 ‘중국’”…AZ·릴리 아닌 中 바이오 경계",
+      "url": "https://www.thebionews.net/news/articleView.html?idxno=30408",
+      "summary": "화이자 불라 CEO가 2030년 최대 경쟁자로 중국 바이오를 꼽았다. 중국이 절반의 비용으로 3~4배 빠르게 성과를 낸다며 AI로 속도를 높여야 한다고 강조했다. 같은 날 화이자는 중국 스타나와 대형 계약을 발표했다.",
+      "source": "더바이오",
+      "time": "11/18 14:00"
+    }
+  ]
+}
